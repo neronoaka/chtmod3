@@ -1,0 +1,62 @@
+{
+    "variants": {
+        "layer=1,left=true,ns=true,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_down"
+        },
+        "layer=1,left=true,ns=false,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_down",
+            "y": 90
+        },
+        "layer=1,left=false,ns=true,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_down"
+        },
+        "layer=1,left=false,ns=false,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_down",
+            "y": 90
+        },
+        "layer=1,left=true,ns=true,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_down_open"
+        },
+        "layer=1,left=true,ns=false,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_down_open",
+            "y": 90
+        },
+        "layer=1,left=false,ns=true,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_down_open",
+            "y": 180
+        },
+        "layer=1,left=false,ns=false,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_down_open",
+            "y": 270
+        },
+        "layer=2,left=true,ns=true,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_up"
+        },
+        "layer=2,left=true,ns=false,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_up",
+            "y": 90
+        },
+        "layer=2,left=false,ns=true,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_up"
+        },
+        "layer=2,left=false,ns=false,open=false": {
+            "model": "chtmod:glassdoor/GlassDoor_up",
+            "y": 90
+        },
+        "layer=2,left=true,ns=true,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_up_open"
+        },
+        "layer=2,left=true,ns=false,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_up_open",
+            "y": 90
+        },
+        "layer=2,left=false,ns=true,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_up_open",
+            "y": 180
+        },
+        "layer=2,left=false,ns=false,open=true": {
+            "model": "chtmod:glassdoor/GlassDoor_up_open",
+            "y": 270
+        }
+    }
+}

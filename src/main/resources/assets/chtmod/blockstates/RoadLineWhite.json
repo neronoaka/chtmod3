@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "angle=a,facing=north": {
+            "model": "chtmod:line/White_a"
+        },
+        "angle=a,facing=east": {
+            "model": "chtmod:line/White_a",
+            "y": 90
+        },
+        "angle=a,facing=south": {
+            "model": "chtmod:line/White_a",
+            "y": 180
+        },
+        "angle=a,facing=west": {
+            "model": "chtmod:line/White_a",
+            "y": 270
+        },
+        "angle=b,facing=north": {
+            "model": "chtmod:line/White_b"
+        },
+        "angle=b,facing=east": {
+            "model": "chtmod:line/White_b",
+            "y": 90
+        },
+        "angle=b,facing=south": {
+            "model": "chtmod:line/White_b",
+            "y": 180
+        },
+        "angle=b,facing=west": {
+            "model": "chtmod:line/White_b",
+            "y": 270
+        },
+        "angle=c,facing=north": {
+            "model": "chtmod:line/White_c"
+        },
+        "angle=c,facing=east": {
+            "model": "chtmod:line/White_c",
+            "y": 90
+        },
+        "angle=c,facing=south": {
+            "model": "chtmod:line/White_c",
+            "y": 180
+        },
+        "angle=c,facing=west": {
+            "model": "chtmod:line/White_c",
+            "y": 270
+        },
+        "angle=d,facing=north": {
+            "model": "chtmod:line/White_d"
+        },
+        "angle=d,facing=east": {
+            "model": "chtmod:line/White_d",
+            "y": 90
+        },
+        "angle=d,facing=south": {
+            "model": "chtmod:line/White_d",
+            "y": 180
+        },
+        "angle=d,facing=west": {
+            "model": "chtmod:line/White_d",
+            "y": 270
+        }
+    }
+}

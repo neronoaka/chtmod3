@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/trafficlight/TLS1",
+    "textures": {
+        "particle": "chtmod:blocks/trafficlights/Backy"
+    }
+}

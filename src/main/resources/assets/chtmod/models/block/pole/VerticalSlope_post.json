@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "chtmod:blocks/whitemetals"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 1, 9],
+			"faces": {
+				"north": {"uv": [7, 15, 9, 16], "texture": "#particle"},
+				"east": {"uv": [9, 16, 7, 15], "texture": "#particle"},
+				"south": {"uv": [7, 15, 9, 16], "texture": "#particle"},
+				"west": {"uv": [7, 15, 9, 16], "texture": "#particle"},
+				"up": {"uv": [7, 7, 9, 9], "texture": "#particle"},
+				"down": {"uv": [7, 7, 9, 9], "texture": "#particle"}
+			}
+		}
+	]
+}

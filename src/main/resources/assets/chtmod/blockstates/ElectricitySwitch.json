@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:electricity/Switch"
+        },
+        "facing=east": {
+            "model": "chtmod:electricity/Switch",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:electricity/Switch",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:electricity/Switch",
+            "y": 270
+        }
+    }
+}

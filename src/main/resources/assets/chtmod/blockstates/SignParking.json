@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/parking"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/parking",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/parking",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/parking",
+            "y": 270
+        }
+    }
+}

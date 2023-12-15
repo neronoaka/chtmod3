@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"name": "m",
+			"from": [-8, 0, 5.01],
+			"to": [8, 16, 5.01],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#particle"}
+			}
+		},
+		{
+			"name": "r",
+			"from": [8, 0, 5.01],
+			"to": [24, 16, 5.01],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#r"}
+			}
+		}
+	]
+}

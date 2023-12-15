@@ -1,0 +1,6 @@
+{
+	"parent": "chtmod:block/pole/RoadFence_side",
+    "textures": {
+	"line":"chtmod:blocks/white_thick"
+    }
+}

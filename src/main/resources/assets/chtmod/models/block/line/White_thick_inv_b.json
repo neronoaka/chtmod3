@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/line/INVB_thick",
+    "textures": {
+        "particle": "chtmod:blocks/white_thick"
+    }
+}

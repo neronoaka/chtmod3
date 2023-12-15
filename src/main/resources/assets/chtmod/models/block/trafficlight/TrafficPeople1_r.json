@@ -1,0 +1,7 @@
+{
+    "parent": "chtmod:block/trafficlight/TrafficPeople1",
+    "textures": {
+        "up": "chtmod:blocks/trafficlights/People1r",
+		"particle": "chtmod:blocks/trafficlights/People1ge"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "angle=a,facing=north": {
+            "model": "chtmod:line/YellowSlope2_a.obj"
+        },
+        "angle=a,facing=east": {
+            "model": "chtmod:line/YellowSlope2_a.obj",
+            "y": 90
+        },
+        "angle=a,facing=south": {
+            "model": "chtmod:line/YellowSlope2_a.obj",
+            "y": 180
+        },
+        "angle=a,facing=west": {
+            "model": "chtmod:line/YellowSlope2_a.obj",
+            "y": 270
+        },
+        "angle=b,facing=north": {
+            "model": "chtmod:line/YellowSlope2_b.obj"
+        },
+        "angle=b,facing=east": {
+            "model": "chtmod:line/YellowSlope2_b.obj",
+            "y": 90
+        },
+        "angle=b,facing=south": {
+            "model": "chtmod:line/YellowSlope2_b.obj",
+            "y": 180
+        },
+        "angle=b,facing=west": {
+            "model": "chtmod:line/YellowSlope2_b.obj",
+            "y": 270
+        },
+        "angle=c,facing=north": {
+            "model": "chtmod:line/YellowSlope2_c.obj"
+        },
+        "angle=c,facing=east": {
+            "model": "chtmod:line/YellowSlope2_c.obj",
+            "y": 90
+        },
+        "angle=c,facing=south": {
+            "model": "chtmod:line/YellowSlope2_c.obj",
+            "y": 180
+        },
+        "angle=c,facing=west": {
+            "model": "chtmod:line/YellowSlope2_c.obj",
+            "y": 270
+        },
+        "angle=d,facing=north": {
+            "model": "chtmod:line/YellowSlope2_d.obj"
+        },
+        "angle=d,facing=east": {
+            "model": "chtmod:line/YellowSlope2_d.obj",
+            "y": 90
+        },
+        "angle=d,facing=south": {
+            "model": "chtmod:line/YellowSlope2_d.obj",
+            "y": 180
+        },
+        "angle=d,facing=west": {
+            "model": "chtmod:line/YellowSlope2_d.obj",
+            "y": 270
+        }
+    }
+}

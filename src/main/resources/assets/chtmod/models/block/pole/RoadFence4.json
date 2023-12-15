@@ -1,0 +1,67 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "chtmod:blocks/whitemetals"
+	},
+	"elements": [
+		{
+			"from": [7, 2, 0],
+			"to": [9, 4, 6],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"east": {"uv": [10, 6, 15, 10], "texture": "#1"},
+				"south": {"uv": [6, 6, 10, 10], "texture": "#1"},
+				"west": {"uv": [1, 6, 6, 10], "texture": "#1"},
+				"up": {"uv": [6, 1, 10, 6], "texture": "#1"},
+				"down": {"uv": [6, 10, 10, 15], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 6, 0],
+			"to": [9, 8, 6],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"east": {"uv": [10, 6, 15, 10], "texture": "#1"},
+				"south": {"uv": [6, 6, 10, 10], "texture": "#1"},
+				"west": {"uv": [1, 6, 6, 10], "texture": "#1"},
+				"up": {"uv": [6, 1, 10, 6], "texture": "#1"},
+				"down": {"uv": [6, 10, 10, 15], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 10, 0],
+			"to": [9, 12, 6],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"east": {"uv": [10, 6, 15, 10], "texture": "#1"},
+				"south": {"uv": [6, 6, 10, 10], "texture": "#1"},
+				"west": {"uv": [1, 6, 6, 10], "texture": "#1"},
+				"up": {"uv": [6, 1, 10, 6], "texture": "#1"},
+				"down": {"uv": [6, 10, 10, 15], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [10, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [10, 6, 0]
+		},
+		"ground": {
+			"translation": [0, 0.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, -45, 0],
+			"translation": [-2, 0, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

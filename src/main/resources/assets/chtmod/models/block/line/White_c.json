@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/line/LINEC",
+    "textures": {
+        "particle": "chtmod:blocks/white_thin"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:electricity/Transformer"
+        },
+        "facing=east": {
+            "model": "chtmod:electricity/Transformer",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:electricity/Transformer",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:electricity/Transformer",
+            "y": 270
+        }
+    }
+}

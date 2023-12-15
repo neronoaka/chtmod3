@@ -1,0 +1,67 @@
+{
+    "ambientocclusion": true,
+    "textures": {
+        "particle": "chtmod:blocks/roadblock",
+        "r": "chtmod:blocks/red_pure"
+    },
+    "elements": [{
+            "from": [5, 0, 5],
+            "to": [11, 1, 11],
+            "faces": {
+                "down": {
+                    "uv": [0, 0, 6, 6],
+                    "texture": "#r"
+                },
+                "up": {
+                    "uv": [0, 0, 6, 6],
+                    "texture": "#r"
+                },
+                "east": {
+                    "uv": [0, 0, 6, 1],
+                    "texture": "#r"
+                },
+                "west": {
+                    "uv": [0, 0, 6, 1],
+                    "texture": "#r"
+                },
+                "north": {
+                    "uv": [0, 0, 6, 1],
+                    "texture": "#r"
+                },
+                "south": {
+                    "uv": [0, 0, 6, 1],
+                    "texture": "#r"
+                }
+            }
+        }, {
+            "from": [6, 1, 6],
+            "to": [10, 16, 10],
+            "faces": {
+                "down": {
+                    "uv": [0, 0, 4, 4],
+                    "texture": "#r"
+                },
+                "up": {
+                    "uv": [0, 0, 4, 4],
+                    "texture": "#r"
+                },
+                "east": {
+                    "uv": [1, 0, 5, 15],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [1, 0, 5, 15],
+                    "texture": "#particle"
+                },
+                "north": {
+                    "uv": [1, 0, 5, 15],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [1, 0, 5, 15],
+                    "texture": "#particle"
+                }
+            }
+        }
+    ]
+}

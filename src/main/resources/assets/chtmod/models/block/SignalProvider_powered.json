@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "chtmod:blocks/blue",
+        "down": "chtmod:blocks/blue",
+        "up": "chtmod:blocks/blue_powered"
+    }
+}

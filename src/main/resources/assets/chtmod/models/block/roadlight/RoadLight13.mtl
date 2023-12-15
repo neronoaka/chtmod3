@@ -1,0 +1,10 @@
+# Created by Metasequoia
+
+newmtl mat1
+Ka 0.44941 0.44941 0.44941
+Kd 0.74902 0.74902 0.74902
+
+newmtl mat2
+Ka 0.60000 0.60000 0.60000
+Kd 1.00000 1.00000 1.00000
+map_Kd chtmod:blocks/light2

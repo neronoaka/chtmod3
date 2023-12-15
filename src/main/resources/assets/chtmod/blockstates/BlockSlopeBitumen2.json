@@ -1,0 +1,85 @@
+{
+    "variants": {
+        "facing=north,head=true,level=0": {
+            "model": "chtmod:slopebitumen/Line20.obj"
+        },
+        "facing=east,head=true,level=0": {
+            "model": "chtmod:slopebitumen/Line20.obj",
+            "y": 90
+        },
+        "facing=south,head=true,level=0": {
+            "model": "chtmod:slopebitumen/Line20.obj",
+            "y": 180
+        },
+        "facing=west,head=true,level=0": {
+            "model": "chtmod:slopebitumen/Line20.obj",
+            "y": 270
+        },
+        "facing=north,head=false,level=1": {
+            "model": "chtmod:slopebitumen/Line21.obj"
+        },
+        "facing=east,head=false,level=1": {
+            "model": "chtmod:slopebitumen/Line21.obj",
+            "y": 90
+        },
+        "facing=south,head=false,level=1": {
+            "model": "chtmod:slopebitumen/Line21.obj",
+            "y": 180
+        },
+        "facing=west,head=false,level=1": {
+            "model": "chtmod:slopebitumen/Line21.obj",
+            "y": 270
+        },
+        "facing=north,head=false,level=2": {
+            "model": "chtmod:slopebitumen/Line22.obj"
+        },
+        "facing=east,head=false,level=2": {
+            "model": "chtmod:slopebitumen/Line22.obj",
+            "y": 90
+        },
+        "facing=south,head=false,level=2": {
+            "model": "chtmod:slopebitumen/Line22.obj",
+            "y": 180
+        },
+        "facing=west,head=false,level=2": {
+            "model": "chtmod:slopebitumen/Line22.obj",
+            "y": 270
+        },
+        "facing=north,head=false,level=3": {
+            "model": "chtmod:slopebitumen/Line23.obj"
+        },
+        "facing=east,head=false,level=3": {
+            "model": "chtmod:slopebitumen/Line23.obj",
+            "y": 90
+        },
+        "facing=south,head=false,level=3": {
+            "model": "chtmod:slopebitumen/Line23.obj",
+            "y": 180
+        },
+        "facing=west,head=false,level=3": {
+            "model": "chtmod:slopebitumen/Line23.obj",
+            "y": 270
+        },
+        "facing=north,head=false,level=4": {
+            "model": "chtmod:slopebitumen/Line24.obj"
+        },
+        "facing=east,head=false,level=4": {
+            "model": "chtmod:slopebitumen/Line24.obj",
+            "y": 90
+        },
+        "facing=south,head=false,level=4": {
+            "model": "chtmod:slopebitumen/Line24.obj",
+            "y": 180
+        },
+        "facing=west,head=false,level=4": {
+            "model": "chtmod:slopebitumen/Line24.obj",
+            "y": 270
+        }
+    },
+    "multipart": [{
+            "apply": {
+                "model": "chtmod:slopebitumen/Base"
+            }
+        }
+    ]
+}

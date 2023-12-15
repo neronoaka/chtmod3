@@ -1,0 +1,6 @@
+# Created by Metasequoia
+
+newmtl RoadLight0
+Ka 0.44941 0.44941 0.44941
+Kd 0.74902 0.74902 0.74902
+map_Kd chtmod:blocks/light_colorful

@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"name": "r",
+			"from": [14, 2, 4.01],
+			"to": [26, 14, 4.01],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#r"}
+			}
+		},
+		{
+			"name": "m",
+			"from": [2, 2, 4.01],
+			"to": [14, 14, 4.01],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#particle"}
+			}
+		},
+		{
+			"name": "l",
+			"from": [-10, 2, 4.01],
+			"to": [2, 14, 4.01],
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#l"}
+			}
+		}
+	]
+}

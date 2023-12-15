@@ -1,0 +1,39 @@
+{
+    "multipart": [{
+            "apply": {
+                "model": "chtmod:pole/RoadFence_post"
+            }
+        }, {
+            "when": {
+                "north": "true"
+            },
+            "apply": {
+                "model": "chtmod:pole/RoadFence1"
+            }
+        }, {
+            "when": {
+                "east": "true"
+            },
+            "apply": {
+                "model": "chtmod:pole/RoadFence1",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "south": "true"
+            },
+            "apply": {
+                "model": "chtmod:pole/RoadFence1",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "west": "true"
+            },
+            "apply": {
+                "model": "chtmod:pole/RoadFence1",
+                "y": 270
+            }
+        }
+    ]
+}

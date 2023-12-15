@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:roadlight/RoadLight2.obj"
+        },
+        "facing=east": {
+            "model": "chtmod:roadlight/RoadLight2.obj",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:roadlight/RoadLight2.obj",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:roadlight/RoadLight2.obj",
+            "y": 270
+        }
+    }
+}

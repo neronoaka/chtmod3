@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/trafficlight/TLS5",
+    "textures": {
+		"particle": "chtmod:blocks/trafficlights/People2r"
+    }
+}

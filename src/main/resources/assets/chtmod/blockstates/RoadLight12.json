@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:roadlight/RoadLight12.obj",
+            "uvlock": true
+        },
+        "facing=east": {
+            "model": "chtmod:roadlight/RoadLight12.obj",
+            "y": 90,
+            "uvlock": true
+        },
+        "facing=south": {
+            "model": "chtmod:roadlight/RoadLight12.obj",
+            "y": 180,
+            "uvlock": true
+        },
+        "facing=west": {
+            "model": "chtmod:roadlight/RoadLight12.obj",
+            "y": 270,
+            "uvlock": true
+        }
+    }
+}

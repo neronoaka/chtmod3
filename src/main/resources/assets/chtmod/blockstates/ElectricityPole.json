@@ -1,0 +1,55 @@
+{
+    "multipart": [{
+            "apply": {
+                "model": "chtmod:electricity/ElectricityPole"
+            }
+        }, {
+            "when": {
+                "north": "true"
+            },
+            "apply": {
+                "model": "chtmod:electricity/ElectricityPole_side"
+            }
+        }, {
+            "when": {
+                "east": "true"
+            },
+            "apply": {
+                "model": "chtmod:electricity/ElectricityPole_side",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "south": "true"
+            },
+            "apply": {
+                "model": "chtmod:electricity/ElectricityPole_side",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "west": "true"
+            },
+            "apply": {
+                "model": "chtmod:electricity/ElectricityPole_side",
+                "y": 270
+            }
+        }, {
+            "when": {
+                "OR": [{
+                        "north": "true"
+                    }, {
+                        "east": "true"
+                    }, {
+                        "south": "true"
+                    }, {
+                        "west": "true"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "chtmod:electricity/ElectricityPole_post"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "chtmod:blocks/white_pure"
+	},
+	"elements": [
+		{
+			"from": [2, 0.1, 2],
+			"to": [14, 0.1, 14],
+			"faces": {
+				"up": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#0"}
+			}
+		}
+	]
+}

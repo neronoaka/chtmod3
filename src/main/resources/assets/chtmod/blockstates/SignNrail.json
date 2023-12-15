@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/nrail"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/nrail",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/nrail",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/nrail",
+            "y": 270
+        }
+    }
+}

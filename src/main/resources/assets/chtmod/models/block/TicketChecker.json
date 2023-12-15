@@ -1,0 +1,141 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "0": "chtmod:blocks/red",
+        "3": "chtmod:blocks/sign/ticketmachine",
+        "particle": "blocks/iron_block"
+    },
+    "elements": [{
+            "from": [15.5, 0, 0],
+            "to": [16, 24, 16],
+            "faces": {
+                "north": {
+                    "uv": [0, 0, 0.5, 16],
+                    "texture": "#particle"
+                },
+                "east": {
+                    "uv": [16, 16, 0, 0],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [15.5, 0, 16, 16],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#particle"
+                },
+                "up": {
+                    "uv": [15.5, 0, 16, 16],
+                    "texture": "#particle"
+                },
+                "down": {
+                    "uv": [15.5, 0, 16, 16],
+                    "texture": "#particle"
+                }
+            }
+        }, {
+            "from": [0, 0, 0],
+            "to": [3, 24, 16],
+            "faces": {
+                "north": {
+                    "uv": [13, 0, 16, 16],
+                    "texture": "#0"
+                },
+                "east": {
+                    "uv": [16, 16, 0, 0],
+                    "texture": "#0"
+                },
+                "south": {
+                    "uv": [0, 0, 3, 16],
+                    "texture": "#0"
+                },
+                "west": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#0"
+                },
+                "up": {
+                    "uv": [0, 0, 3, 16],
+                    "texture": "#0"
+                },
+                "down": {
+                    "uv": [0, 0, 3, 16],
+                    "texture": "#0"
+                }
+            }
+        }, {
+            "from": [3, 10, 7],
+            "to": [15, 18, 9],
+            "faces": {
+                "north": {
+                    "uv": [1, 0, 13, 8],
+                    "texture": "#particle"
+                },
+                "east": {
+                    "uv": [9, 8, 7, 0],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [3, 0, 15, 8],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [7, 0, 9, 8],
+                    "texture": "#particle"
+                },
+                "up": {
+                    "uv": [3, 7, 15, 9],
+                    "texture": "#particle"
+                },
+                "down": {
+                    "uv": [3, 7, 15, 9],
+                    "texture": "#particle"
+                }
+            }
+        }, {
+            "from": [7, 12, 6.99],
+            "to": [11, 16, 6.99],
+            "faces": {
+                "north": {
+                    "uv": [8, 0, 16, 8],
+                    "texture": "#3"
+                }
+            }
+        }, {
+            "from": [7, 12, 9.01],
+            "to": [11, 16, 9.01],
+            "faces": {
+                "south": {
+                    "uv": [0, 0, 8, 8],
+                    "texture": "#3"
+                }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "thirdperson_lefthand": {
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "firstperson_righthand": {
+            "translation": [0, 0, 2],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "firstperson_lefthand": {
+            "translation": [0, 0, 2],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "ground": {
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "gui": {
+            "rotation": [30, 30, 0],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "fixed": {
+            "scale": [0.5, 0.5, 0.5]
+        }
+    }
+}

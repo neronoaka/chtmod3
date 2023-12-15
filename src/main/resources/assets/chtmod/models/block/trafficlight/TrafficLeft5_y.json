@@ -1,0 +1,8 @@
+{
+	"parent": "chtmod:block/trafficlight/TLS5_horizontal",
+	"textures": {
+		"particle": "chtmod:blocks/trafficlights/Lefty",
+		"l": "chtmod:blocks/trafficlights/Lefte",
+		"r": "chtmod:blocks/trafficlights/Lefte"
+	}
+}

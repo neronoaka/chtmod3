@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:ElectricitySign"
+        },
+        "facing=east": {
+            "model": "chtmod:ElectricitySign",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:ElectricitySign",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:ElectricitySign",
+            "y": 270
+        }
+    }
+}

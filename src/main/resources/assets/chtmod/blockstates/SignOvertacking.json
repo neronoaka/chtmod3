@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/overtacking"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/overtacking",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/overtacking",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/overtacking",
+            "y": 270
+        }
+    }
+}

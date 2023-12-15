@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/godouble"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/godouble",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/godouble",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/godouble",
+            "y": 270
+        }
+    }
+}

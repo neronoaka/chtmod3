@@ -1,0 +1,6 @@
+# Created by Metasequoia
+
+newmtl iron
+Ka 0.60000 0.60000 0.60000
+Kd 1.00000 1.00000 1.00000
+map_Kd chtmod:blocks/iron_rust

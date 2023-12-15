@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "chtmod:BlockBitumen"
+            }, {
+                "model": "chtmod:BlockBitumenMirrored"
+            }, {
+                "model": "chtmod:BlockBitumen",
+                "y": 180
+            }, {
+                "model": "chtmod:BlockBitumenMirrored",
+                "y": 180
+            }
+        ]
+    }
+}

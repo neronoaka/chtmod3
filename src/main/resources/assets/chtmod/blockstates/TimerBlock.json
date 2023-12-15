@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "powered=false": {
+            "model": "chtmod:SignalProvider"
+        },
+        "powered=true": {
+            "model": "chtmod:SignalProvider_powered"
+        }
+    }
+}

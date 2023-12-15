@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/sign/SIGNVertical",
+    "textures": {
+        "particle": "chtmod:blocks/sign/slrtr"
+    }
+}

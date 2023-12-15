@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "facing=north,front=false,updown=true": {
+            "model": "chtmod:pole/SideThin_updown"
+        },
+        "facing=north,front=true,updown=false": {
+            "model": "chtmod:pole/SideThin_front"
+        },
+        "facing=north,front=true,updown=true": {
+            "model": "chtmod:pole/SideThin_all"
+        },
+        "facing=north,front=false,updown=false": {
+            "model": "chtmod:pole/SideThin_post"
+        },
+        "facing=south,front=false,updown=true": {
+            "model": "chtmod:pole/SideThin_updown",
+            "y": 180
+        },
+        "facing=south,front=true,updown=false": {
+            "model": "chtmod:pole/SideThin_front",
+            "y": 180
+        },
+        "facing=south,front=true,updown=true": {
+            "model": "chtmod:pole/SideThin_all",
+            "y": 180
+        },
+        "facing=south,front=false,updown=false": {
+            "model": "chtmod:pole/SideThin_post",
+            "y": 180
+        },
+        "facing=west,front=false,updown=true": {
+            "model": "chtmod:pole/SideThin_updown",
+            "y": 270
+        },
+        "facing=west,front=true,updown=false": {
+            "model": "chtmod:pole/SideThin_front",
+            "y": 270
+        },
+        "facing=west,front=true,updown=true": {
+            "model": "chtmod:pole/SideThin_all",
+            "y": 270
+        },
+        "facing=west,front=false,updown=false": {
+            "model": "chtmod:pole/SideThin_post",
+            "y": 270
+        },
+        "facing=east,front=false,updown=true": {
+            "model": "chtmod:pole/SideThin_updown",
+            "y": 90
+        },
+        "facing=east,front=true,updown=false": {
+            "model": "chtmod:pole/SideThin_front",
+            "y": 90
+        },
+        "facing=east,front=true,updown=true": {
+            "model": "chtmod:pole/SideThin_all",
+            "y": 90
+        },
+        "facing=east,front=false,updown=false": {
+            "model": "chtmod:pole/SideThin_post",
+            "y": 90
+        }
+    }
+}

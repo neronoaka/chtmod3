@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/comity"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/comity",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/comity",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/comity",
+            "y": 270
+        }
+    }
+}

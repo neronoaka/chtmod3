@@ -1,0 +1,33 @@
+{
+    "variants": {
+        "left=true,ns=true,right=true": {
+            "model": "chtmod:pole/HorizontalThin_all"
+        },
+        "left=true,ns=false,right=true": {
+            "model": "chtmod:pole/HorizontalThin_all",
+            "y": 90
+        },
+        "left=true,ns=true,right=false": {
+            "model": "chtmod:pole/HorizontalThin_side",
+            "y": 180
+        },
+        "left=false,ns=true,right=true": {
+            "model": "chtmod:pole/HorizontalThin_side"
+        },
+        "left=false,ns=true,right=false": {
+            "model": "chtmod:pole/HorizontalThin_post"
+        },
+        "left=true,ns=false,right=false": {
+            "model": "chtmod:pole/HorizontalThin_side",
+            "y": 270
+        },
+        "left=false,ns=false,right=true": {
+            "model": "chtmod:pole/HorizontalThin_side",
+            "y": 90
+        },
+        "left=false,ns=false,right=false": {
+            "model": "chtmod:pole/HorizontalThin_post",
+            "y": 90
+        }
+    }
+}

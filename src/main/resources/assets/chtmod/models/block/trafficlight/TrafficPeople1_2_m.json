@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/trafficlight/TLS3_model",
+    "textures": {
+        "particle": "chtmod:blocks/trafficlights/People1g"
+    }
+}

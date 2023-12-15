@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/right"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/right",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/right",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/right",
+            "y": 270
+        }
+    }
+}

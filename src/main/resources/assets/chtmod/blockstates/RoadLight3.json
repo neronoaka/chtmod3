@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=north": [{
+                "model": "chtmod:roadlight/RoadLight3.obj"
+            }, {
+                "model": "chtmod:roadlight/RoadLight3_broken.obj"
+            }
+        ],
+        "facing=east": [{
+                "model": "chtmod:roadlight/RoadLight3.obj",
+                "y": 90
+            }, {
+                "model": "chtmod:roadlight/RoadLight3_broken.obj",
+                "y": 90
+            }
+        ],
+        "facing=south": [{
+                "model": "chtmod:roadlight/RoadLight3.obj",
+                "y": 180
+            }, {
+                "model": "chtmod:roadlight/RoadLight3_broken.obj",
+                "y": 180
+            }
+        ],
+        "facing=west": [{
+                "model": "chtmod:roadlight/RoadLight3.obj",
+                "y": 270
+            }, {
+                "model": "chtmod:roadlight/RoadLight3_broken.obj",
+                "y": 270
+            }
+        ]
+    }
+}

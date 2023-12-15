@@ -1,0 +1,8 @@
+# Created by Metasequoia
+
+newmtl mat1
+Ka 0.60000 0.60000 0.60000
+Kd 1.00000 1.00000 1.00000
+
+newmtl mat2
+map_Kd chtmod:blocks/whitemetals

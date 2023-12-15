@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/line/LINEA",
+    "textures": {
+        "particle": "chtmod:blocks/yellow_thick"
+    }
+}

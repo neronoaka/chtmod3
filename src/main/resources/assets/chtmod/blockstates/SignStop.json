@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/stop"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/stop",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/stop",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/stop",
+            "y": 270
+        }
+    }
+}

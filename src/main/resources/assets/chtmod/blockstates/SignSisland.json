@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/sisland"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/sisland",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/sisland",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/sisland",
+            "y": 270
+        }
+    }
+}

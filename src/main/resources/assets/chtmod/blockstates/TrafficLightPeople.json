@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "colour=red,facing=north": {
+            "model": "chtmod:trafficlight/TrafficPeople_r"
+        },
+        "colour=red,facing=east": {
+            "model": "chtmod:trafficlight/TrafficPeople_r",
+            "y": 90
+        },
+        "colour=red,facing=south": {
+            "model": "chtmod:trafficlight/TrafficPeople_r",
+            "y": 180
+        },
+        "colour=red,facing=west": {
+            "model": "chtmod:trafficlight/TrafficPeople_r",
+            "y": 270
+        },
+        "colour=yellow,facing=north": {
+            "model": "chtmod:trafficlight/TrafficPeople_y"
+        },
+        "colour=yellow,facing=east": {
+            "model": "chtmod:trafficlight/TrafficPeople_y",
+            "y": 90
+        },
+        "colour=yellow,facing=south": {
+            "model": "chtmod:trafficlight/TrafficPeople_y",
+            "y": 180
+        },
+        "colour=yellow,facing=west": {
+            "model": "chtmod:trafficlight/TrafficPeople_y",
+            "y": 270
+        },
+        "colour=green,facing=north": {
+            "model": "chtmod:trafficlight/TrafficPeople_g"
+        },
+        "colour=green,facing=east": {
+            "model": "chtmod:trafficlight/TrafficPeople_g",
+            "y": 90
+        },
+        "colour=green,facing=south": {
+            "model": "chtmod:trafficlight/TrafficPeople_g",
+            "y": 180
+        },
+        "colour=green,facing=west": {
+            "model": "chtmod:trafficlight/TrafficPeople_g",
+            "y": 270
+        },
+        "colour=empty,facing=north": {
+            "model": "chtmod:trafficlight/TrafficPeople_e"
+        },
+        "colour=empty,facing=east": {
+            "model": "chtmod:trafficlight/TrafficPeople_e",
+            "y": 90
+        },
+        "colour=empty,facing=south": {
+            "model": "chtmod:trafficlight/TrafficPeople_e",
+            "y": 180
+        },
+        "colour=empty,facing=west": {
+            "model": "chtmod:trafficlight/TrafficPeople_e",
+            "y": 270
+        }
+    }
+}

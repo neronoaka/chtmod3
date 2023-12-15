@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/bike"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/bike",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/bike",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/bike",
+            "y": 270
+        }
+    }
+}

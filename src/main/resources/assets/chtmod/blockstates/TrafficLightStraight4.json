@@ -1,0 +1,175 @@
+{
+    "multipart": [{
+            "when": {
+                "colour": "red",
+                "facing": "north"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_r"
+            }
+        }, {
+            "when": {
+                "colour": "red",
+                "facing": "east"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_r",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "colour": "red",
+                "facing": "south"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_r",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "colour": "red",
+                "facing": "west"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_r",
+                "y": 270
+            }
+        }, {
+            "when": {
+                "colour": "yellow",
+                "facing": "north"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_y"
+            }
+        }, {
+            "when": {
+                "colour": "yellow",
+                "facing": "east"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_y",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "colour": "yellow",
+                "facing": "south"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_y",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "colour": "yellow",
+                "facing": "west"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_y",
+                "y": 270
+            }
+        }, {
+            "when": {
+                "colour": "green",
+                "facing": "north"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_g"
+            }
+        }, {
+            "when": {
+                "colour": "green",
+                "facing": "east"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_g",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "colour": "green",
+                "facing": "south"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_g",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "colour": "green",
+                "facing": "west"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_g",
+                "y": 270
+            }
+        }, {
+            "when": {
+                "colour": "empty",
+                "facing": "north"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_e"
+            }
+        }, {
+            "when": {
+                "colour": "empty",
+                "facing": "east"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_e",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "colour": "empty",
+                "facing": "south"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_e",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "colour": "empty",
+                "facing": "west"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/TrafficStraight4_e",
+                "y": 270
+            }
+        }, {
+            "when": {
+                "facing": "north"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/obj/TLS4.obj"
+            }
+        }, {
+            "when": {
+                "facing": "east"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/obj/TLS4.obj",
+                "y": 90
+            }
+        }, {
+            "when": {
+                "facing": "south"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/obj/TLS4.obj",
+                "y": 180
+            }
+        }, {
+            "when": {
+                "facing": "west"
+            },
+            "apply": {
+                "model": "chtmod:trafficlight/obj/TLS4.obj",
+                "y": 270
+            }
+        }
+    ]
+}

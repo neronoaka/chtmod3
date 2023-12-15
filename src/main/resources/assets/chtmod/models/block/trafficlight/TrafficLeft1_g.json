@@ -1,0 +1,8 @@
+{
+	"parent": "chtmod:block/trafficlight/TLS2",
+	"textures": {
+		"particle": "chtmod:blocks/trafficlights/Left1e",
+		"u": "chtmod:blocks/trafficlights/Left1e",
+		"d": "chtmod:blocks/trafficlights/Left1g"
+	}
+}

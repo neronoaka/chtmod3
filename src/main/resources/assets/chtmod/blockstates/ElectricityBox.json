@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:electricity/Box"
+        },
+        "facing=east": {
+            "model": "chtmod:electricity/Box",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:electricity/Box",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:electricity/Box",
+            "y": 270
+        }
+    }
+}

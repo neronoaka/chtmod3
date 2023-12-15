@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "chtmod:roadlight/RoadLight10.obj"
+        }
+    }
+}

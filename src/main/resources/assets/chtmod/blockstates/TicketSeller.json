@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:TicketSeller",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "chtmod:TicketSeller",
+            "y": 270
+        },
+        "facing=south": {
+            "model": "chtmod:TicketSeller"
+        },
+        "facing=west": {
+            "model": "chtmod:TicketSeller",
+            "y": 90
+        }
+    }
+}

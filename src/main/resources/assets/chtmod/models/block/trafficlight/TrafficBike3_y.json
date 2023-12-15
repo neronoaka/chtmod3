@@ -1,0 +1,8 @@
+{
+    "parent": "chtmod:block/trafficlight/TrafficBike3",
+    "textures": {
+        "l": "chtmod:blocks/trafficlights/Bike2e",
+		"r": "chtmod:blocks/trafficlights/Bike2e",
+		"particle": "chtmod:blocks/trafficlights/Bike2y"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:sign/nostop"
+        },
+        "facing=east": {
+            "model": "chtmod:sign/nostop",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:sign/nostop",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:sign/nostop",
+            "y": 270
+        }
+    }
+}

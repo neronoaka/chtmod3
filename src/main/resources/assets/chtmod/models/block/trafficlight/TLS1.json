@@ -1,0 +1,47 @@
+{
+	"parent": "chtmod:block/trafficlight/DISP",
+	"ambientocclusion": false,
+	"textures": {
+		"bk": "chtmod:blocks/trafficlights/Tback",
+		"side": "chtmod:blocks/black",
+		"s": "chtmod:blocks/trafficlights/Tside"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#bk"},
+				"east": {"uv": [5, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"west": {"uv": [0, 0, 5, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 5], "texture": "#side"},
+				"down": {"uv": [0, 5, 16, 16], "texture": "#side"}
+			}
+		},
+		{
+			"from": [1, 15, 5],
+			"to": [15, 15, 13],
+			"faces": {
+				"up": {"uv": [0, 0, 14, 8], "texture": "#side"},
+				"down": {"uv": [0, 0, 14, 8], "texture": "#side"}
+			}
+		},
+		{
+			"from": [1, 1, 5],
+			"to": [1, 15, 13],
+			"faces": {
+				"east": {"uv": [8, 0, 0, 14], "texture": "#s"},
+				"west": {"uv": [0, 0, 8, 14], "texture": "#s"}
+			}
+		},
+		{
+			"from": [15, 1, 5],
+			"to": [15, 15, 13],
+			"faces": {
+				"east": {"uv": [8, 0, 0, 14], "texture": "#s"},
+				"west": {"uv": [0, 0, 8, 14], "texture": "#s"}
+			}
+		}
+	]
+}

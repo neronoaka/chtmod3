@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/line/ARRA",
+    "textures": {
+        "particle": "chtmod:blocks/arrow/arr_back"
+    }
+}

@@ -1,0 +1,15 @@
+[{
+        "modid": "chtmod",
+        "name": "CDF Hyper Technology Mod",
+        "description": "A minecraft mod with some traffic blocks.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/neronoaka/cdfmod",
+        "updateUrl": "",
+        "authorList": ["cdf"],
+        "credits": "TheGreyGhost,MCForge and CDF",
+        "logoFile": "logo.png",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

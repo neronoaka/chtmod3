@@ -1,0 +1,21 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "particle": "chtmod:blocks/white_pure"
+    },
+    "elements": [{
+            "from": [3.9, -0.1, -3.99],
+            "to": [12.1, 8.1, -3.99],
+            "faces": {
+                "north": {
+                    "uv": [3.9, 7.9, 12.1, 16],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [3.9, 7.9, 12.1, 16],
+                    "texture": "#particle"
+                }
+            }
+        }
+    ]
+}

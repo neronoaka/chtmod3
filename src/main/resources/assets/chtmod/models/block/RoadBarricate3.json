@@ -1,0 +1,37 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "particle": "chtmod:blocks/roadblock3"
+    },
+    "elements": [{
+            "from": [2, 0, 2],
+            "to": [14, 16, 14],
+            "faces": {
+                "north": {
+                    "uv": [0, 0, 12, 16],
+                    "texture": "#particle"
+                },
+                "east": {
+                    "uv": [0, 0, 12, 16],
+                    "texture": "#particle"
+                },
+                "south": {
+                    "uv": [0, 0, 12, 16],
+                    "texture": "#particle"
+                },
+                "west": {
+                    "uv": [0, 0, 12, 16],
+                    "texture": "#particle"
+                },
+                "up": {
+                    "uv": [0, 0, 4, 4],
+                    "texture": "#particle"
+                },
+                "down": {
+                    "uv": [0, 0, 4, 4],
+                    "texture": "#particle"
+                }
+            }
+        }
+    ]
+}

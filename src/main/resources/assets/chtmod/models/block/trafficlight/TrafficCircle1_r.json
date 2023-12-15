@@ -1,0 +1,8 @@
+{
+    "parent": "chtmod:block/trafficlight/TLS4",
+    "textures": {
+        "u": "chtmod:blocks/trafficlights/Circle1r",
+		"d": "chtmod:blocks/trafficlights/Circle1e",
+		"particle": "chtmod:blocks/trafficlights/Circle1e"
+    }
+}

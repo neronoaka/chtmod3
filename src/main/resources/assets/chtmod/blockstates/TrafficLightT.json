@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "colour=red,facing=north": {
+            "model": "chtmod:trafficlight/TrafficT_RED"
+        },
+        "colour=red,facing=east": {
+            "model": "chtmod:trafficlight/TrafficT_RED",
+            "y": 90
+        },
+        "colour=red,facing=south": {
+            "model": "chtmod:trafficlight/TrafficT_RED",
+            "y": 180
+        },
+        "colour=red,facing=west": {
+            "model": "chtmod:trafficlight/TrafficT_RED",
+            "y": 270
+        },
+        "colour=yellow,facing=north": {
+            "model": "chtmod:trafficlight/TrafficT_YELLOW"
+        },
+        "colour=yellow,facing=east": {
+            "model": "chtmod:trafficlight/TrafficT_YELLOW",
+            "y": 90
+        },
+        "colour=yellow,facing=south": {
+            "model": "chtmod:trafficlight/TrafficT_YELLOW",
+            "y": 180
+        },
+        "colour=yellow,facing=west": {
+            "model": "chtmod:trafficlight/TrafficT_YELLOW",
+            "y": 270
+        },
+        "colour=green,facing=north": {
+            "model": "chtmod:trafficlight/TrafficT_GREEN"
+        },
+        "colour=green,facing=east": {
+            "model": "chtmod:trafficlight/TrafficT_GREEN",
+            "y": 90
+        },
+        "colour=green,facing=south": {
+            "model": "chtmod:trafficlight/TrafficT_GREEN",
+            "y": 180
+        },
+        "colour=green,facing=west": {
+            "model": "chtmod:trafficlight/TrafficT_GREEN",
+            "y": 270
+        },
+        "colour=empty,facing=north": {
+            "model": "chtmod:trafficlight/TrafficT_EMPTY"
+        },
+        "colour=empty,facing=east": {
+            "model": "chtmod:trafficlight/TrafficT_EMPTY",
+            "y": 90
+        },
+        "colour=empty,facing=south": {
+            "model": "chtmod:trafficlight/TrafficT_EMPTY",
+            "y": 180
+        },
+        "colour=empty,facing=west": {
+            "model": "chtmod:trafficlight/TrafficT_EMPTY",
+            "y": 270
+        }
+    }
+}

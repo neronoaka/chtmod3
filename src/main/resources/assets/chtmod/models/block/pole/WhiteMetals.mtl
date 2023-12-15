@@ -1,0 +1,4 @@
+# Created by Metasequoia
+
+newmtl PoleLight1
+map_Kd chtmod:blocks/whitemetals

@@ -1,0 +1,8 @@
+{
+	"parent": "chtmod:block/trafficlight/TLS3_horizontal",
+	"textures": {
+		"particle": "chtmod:blocks/trafficlights/Straight2e",
+		"l": "chtmod:blocks/trafficlights/Straight2e",
+		"r": "chtmod:blocks/trafficlights/Straight2e"
+	}
+}

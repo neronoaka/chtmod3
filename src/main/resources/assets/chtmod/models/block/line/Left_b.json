@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/line/ARRB",
+    "textures": {
+        "particle": "chtmod:blocks/arrow/arr_left"
+    }
+}

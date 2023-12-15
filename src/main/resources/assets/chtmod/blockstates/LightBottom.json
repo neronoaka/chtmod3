@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "chtmod:LightBottom.obj"
+            }
+        ]
+    }
+}

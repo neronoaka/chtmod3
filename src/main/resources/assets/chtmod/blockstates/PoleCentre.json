@@ -1,0 +1,42 @@
+{
+    "variants": {
+        "facing=true,style=0": {
+            "model": "chtmod:pole/Centre0"
+        },
+        "facing=false,style=0": {
+            "model": "chtmod:pole/Centre0",
+            "y": 90
+        },
+        "facing=true,style=1": {
+            "model": "chtmod:pole/Centre1"
+        },
+        "facing=false,style=1": {
+            "model": "chtmod:pole/Centre1",
+            "y": 90
+        },
+
+        "facing=true,style=2": {
+            "model": "chtmod:pole/Centre2"
+        },
+        "facing=false,style=2": {
+            "model": "chtmod:pole/Centre2",
+            "y": 90
+        },
+
+        "facing=false,style=3": {
+            "model": "chtmod:pole/Centre3"
+        },
+        "facing=true,style=3": {
+            "model": "chtmod:pole/Centre3",
+            "y": 90
+        },
+
+        "facing=false,style=4": {
+            "model": "chtmod:pole/Centre4"
+        },
+        "facing=true,style=4": {
+            "model": "chtmod:pole/Centre4",
+            "y": 90
+        }
+    }
+}

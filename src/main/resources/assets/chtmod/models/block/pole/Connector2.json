@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "chtmod:blocks/whitemetals"
+	},
+	"elements": [
+		{
+			"from": [-7, 7, 0],
+			"to": [3, 9, 1],
+			"faces": {
+				"north": {"uv": [0, 7, 10, 9], "texture": "#particle"},
+				"east": {"uv": [16, 9, 15, 7], "texture": "#particle"},
+				"south": {"uv": [6, 7, 16, 9], "texture": "#particle"},
+				"west": {"uv": [0, 7, 1, 9], "texture": "#particle"},
+				"up": {"uv": [6, 0, 16, 1], "texture": "#particle"},
+				"down": {"uv": [6, 15, 16, 16], "texture": "#particle"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, 7]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, 7]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [20, -4, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -30, 0]
+		},
+		"ground": {
+			"translation": [10, 0, 5]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [10, 0, 0]
+		},
+		"fixed": {
+			"translation": [5.25, 0, 7]
+		}
+	}
+}

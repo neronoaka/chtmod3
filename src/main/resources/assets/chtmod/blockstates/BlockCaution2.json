@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "chtmod:BlockCaution"
+        },
+        "facing=east": {
+            "model": "chtmod:BlockCaution",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "chtmod:BlockCaution",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "chtmod:BlockCaution",
+            "y": 270
+        }
+    }
+}

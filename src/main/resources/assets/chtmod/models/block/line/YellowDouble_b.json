@@ -1,0 +1,6 @@
+{
+    "parent": "chtmod:block/line/LINEB",
+    "textures": {
+        "particle": "chtmod:blocks/yellow_double"
+    }
+}
