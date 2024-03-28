@@ -18,6 +18,7 @@ public class StartupClientOnly {
 		ModelLoader.setCustomModelResourceLocation(StartupCommon.ir, 0, ruler);
 		ModelLoader.setCustomModelResourceLocation(StartupCommon.is, 0, ruler);
 		ModelLoader.setCustomModelResourceLocation(StartupCommon.is2, 0, ruler);
+		ModelLoader.setCustomModelResourceLocation(StartupCommon.is3, 0, ruler);
 		ModelResourceLocation shovel2 = new ModelResourceLocation("chtmod:tools/Shovel2", "inventory");
 		ModelLoader.setCustomModelResourceLocation(StartupCommon.ppolek5, 0, shovel2);
 		ModelLoader.setCustomModelResourceLocation(StartupCommon.ppolek10, 0, shovel2);

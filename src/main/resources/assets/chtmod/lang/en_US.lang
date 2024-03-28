@@ -174,6 +174,7 @@ item.ToolSubwayTurn.1.name=Subway Right Turn
 item.ToolRoadRuler.name=Ruler * 10
 item.ToolBlockRuler.name=Ruler (Stone) * 10
 item.ToolBlockRuler2.name=Ruler (Stone) * 20
+item.ToolBlockRuler3.name=Ruler (Stone) * 31
 item.ToolPutStone10.name=Place Stone * 10
 item.ToolRepeatBlock20.name=Repeat Block * 20
 item.ToolPoleThin5.name=Place Lamp Pole (Thin) * 5

@@ -39,6 +39,10 @@ public class ItemRuler extends Item {
 			s = Blocks.STONE.getDefaultState();
 			len = 21;
 		}
+		if (_type == 3) {
+			s = Blocks.STONE.getDefaultState();
+			len = 32;
+		}
 		worldIn.setBlockState(pos, s);
 		worldIn.setBlockState(pos.offset(facing, len), s);
 		return EnumActionResult.SUCCESS;

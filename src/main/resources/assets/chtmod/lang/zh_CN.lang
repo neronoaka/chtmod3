@@ -174,6 +174,7 @@ item.ToolSubwayTurn.1.name=地铁右转弯
 item.ToolRoadRuler.name=标尺 *10
 item.ToolBlockRuler.name=标尺(石头) *10
 item.ToolBlockRuler2.name=标尺(石头) *20
+item.ToolBlockRuler3.name=标尺(石头) *31
 item.ToolPutStone10.name=放置石头 *10
 item.ToolRepeatBlock20.name=重复方块 *20
 item.ToolPoleThin5.name=放置灯杆(细) *5

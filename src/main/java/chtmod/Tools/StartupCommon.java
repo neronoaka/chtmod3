@@ -9,6 +9,7 @@ public class StartupCommon {
 	public static ItemRuler ir = new ItemRuler("ToolRoadRuler", 0);
 	public static ItemRuler is = new ItemRuler("ToolBlockRuler", 1);
 	public static ItemRuler is2 = new ItemRuler("ToolBlockRuler2", 2);
+	public static ItemRuler is3 = new ItemRuler("ToolBlockRuler3", 3);
 	public static PutPole ppolek5 = new PutPole(5, "chtmod:PoleVerticalThick", "ToolPoleThick5");
 	public static PutPole ppolek10 = new PutPole(10, "chtmod:PoleVerticalThick", "ToolPoleThick10");
 	public static PutPole ppolen5 = new PutPole(5, "chtmod:PoleVerticalThin", "ToolPoleThin5");
@@ -30,6 +31,7 @@ public class StartupCommon {
 		GameRegistry.register(ir);
 		GameRegistry.register(is);
 		GameRegistry.register(is2);
+		GameRegistry.register(is3);
 		GameRegistry.register(ppolen5);
 		GameRegistry.register(ppolek5);
 		GameRegistry.register(ppolek10);
